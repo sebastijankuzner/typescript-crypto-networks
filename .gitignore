@@ -43,7 +43,7 @@ jspm_packages
 bundle.min.js
 
 # Build
-dist
+# dist
 
 # Microsoft Visual Studio settings
 .vs
