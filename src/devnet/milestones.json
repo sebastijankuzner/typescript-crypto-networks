@@ -103,5 +103,9 @@
     {
         "height": 21400000,
         "blsPublicKeyRegistrationEnabled": true
+    },
+    {
+        "height": 24367000,
+        "multiSignatureRegistrationEnabled": false
     }
 ]
